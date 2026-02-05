@@ -1,5 +1,5 @@
-Dit project is een onderdeel van mijn Power BI-portfolio en richt zich op
-datavoorbereiding en datakwaliteit.
+Dit project is een afzonderlijke opdracht binnen mijn Power BI-portfolio en
+werkt met een eigen dataset en casus.
 
 Binnen deze opdracht heb ik ruwe eventdata geanalyseerd en opgeschoond met Python,
 zodat de data geschikt is voor verdere analyses en Power BI-rapportages.
